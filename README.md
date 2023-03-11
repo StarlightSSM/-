@@ -62,6 +62,7 @@
 
 8-5 프로필 페이지
 ![프로필페이지](https://user-images.githubusercontent.com/87637645/224488700-03ddce4a-a9ae-4029-a1b1-56e5bdafb696.png)
+![프로필1](https://user-images.githubusercontent.com/87637645/224488939-cd31b405-20cb-48f2-9937-0d9912b4b032.PNG)
 
  - 프로필 페이지에는 이메일은 primary key로 저장되어있어 바꿀 수 없게 함.
    파일 선택과 소개글을 변경하면 왼쪽 사진처럼 프로필이 뜨고 소개글도 볼 수있게 하였음.
