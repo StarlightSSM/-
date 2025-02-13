@@ -7,6 +7,8 @@
 웹 / 프론트엔드 : HTML, CSS, Javascript
 서버 : JSP
 데이터베이스(DB) : MySQL
+<img src="프로젝트툴.png"/>
+<img src="프로젝트툴2.png"/>
 
 프로젝트 소개
 바쁘디바쁜 현대 사회에서 핸드폰으로 간단하게 적을 수 있게 하고,
